@@ -145,11 +145,3 @@ Once the setup is complete, the app will be running on your local system.
 | **Edit and Update Expense** | ![Update Expense](client/src/Images/8-update-expense.png)  
 | **Delete Expense Warning** | ![Delete Expense Warning](client/src/Images/10-delete-warning.png) |  
 | **Expense Analytics** | ![Expense Analytics](client/src/Images/9-expense-amalytics.png) |
-
-### **Contact Us**  
-| Feature | Screenshot |
-|---------|-----------|
-| **Contact Us** | ![Contact Us](client/src/Images/4-contact-us.png) |
-| **Copy Right** | ![Copy Right Footer](client/src/Images/15-copy-right.png) |
-
----
