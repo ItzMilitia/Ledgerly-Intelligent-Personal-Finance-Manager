@@ -1,17 +1,12 @@
-# **Expense Management System**
+# **Ledgerly-Intelligent-Personal-Finance-Manager**
 
 ## 🌐 GitHub Repo  
 ```bash
-https://github.com/Prakashsaw/Expense-Management-System
-```
-
-## 🚀 Live Demo  
-```bash
-https://expense-management-system-prakash.netlify.app/
+(https://github.com/ItzMilitia/Ledgerly-Intelligent-Personal-Finance-Manager)
 ```
 
 ## 📌 Description  
-The **Expense Management System** is a web-based application designed to help users efficiently track and manage their financial transactions.  
+The **Finance Manager** is a web-based application designed to help users efficiently track and manage their financial transactions.  
 It provides features like user authentication, expense tracking, and data visualization to ensure a seamless budgeting experience.
 
 ### 🔹 Key Functionalities:  
@@ -43,12 +38,12 @@ It provides features like user authentication, expense tracking, and data visual
 
 ### **Step 1: Clone the project**  
 ```bash
-git clone https://github.com/Prakashsaw/Expense-Management-System.git
+(https://github.com/ItzMilitia/Ledgerly-Intelligent-Personal-Finance-Manager)
 ```
 
 ### **Step 2: Navigate to the project directory**  
 ```bash
-cd Expense-Management-System
+cd Ledgerly-Intelligent-Personal-Finance-Manager
 ```
 
 ### **Step 3: Install dependencies**  
@@ -158,24 +153,3 @@ Once the setup is complete, the app will be running on your local system.
 | **Copy Right** | ![Copy Right Footer](client/src/Images/15-copy-right.png) |
 
 ---
-
-## 🛠 Made By  
-- [@Prakashsaw](https://github.com/Prakashsaw)  
-
----
-
-## 📝 License & Agreement  
-
-### **License**  
-This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute this software as long as you include the original license.
-
-### **Usage Agreement**  
-By using this software, you agree to the following:  
-- You will not use this project for any **illegal or unethical** activities.  
-- If modified and redistributed, proper credit must be given to the original creator.  
-- The software is provided **"as-is"**, without any guarantees of functionality or security.  
-
----
-
-### **🌟 If you like this project, don't forget to star the repo!** ⭐  
