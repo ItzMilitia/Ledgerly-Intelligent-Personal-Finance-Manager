@@ -133,7 +133,6 @@ Once the setup is complete, the app will be running on your local system.
 | **User Lofin** | ![Login Page](client/src/Images/2-login.png) |
 | **Forgot Password** | ![Forgot Password](client/src/Images/14-forgot-password.png) |
 | **User Profile Menu** | ![User Profile Menu](client/src/Images/11-see-menu-for-user-profile.png) | 
-| **Update User Profile** | ![Update Profile](https://drive.google.com/file/d/1nRKg43tde0FRVfI4qdhQP4tS1ra3Tf7q/view?usp=sharing) |
 | **Change User Password** | ![Change Password](client/src/Images/13-change-password.png) |
 
 ### **Expense Management**
